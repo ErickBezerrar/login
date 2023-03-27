@@ -14,3 +14,12 @@ section{
     width: 100%;
     background: #00ff00 ;
 }
+
+.form-box{
+    position: relative;
+    width: 400px;
+    height: 450px;
+    background: red;
+    justify-content: center;
+    align-items: center;
+}
