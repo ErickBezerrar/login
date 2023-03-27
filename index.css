@@ -47,7 +47,7 @@ h2{
     color: #fff;
     font-size: 1em;
     pointer-events: none;
-
+    transition: .5s;
 }
 
 input:focus ~ label,
@@ -64,4 +64,26 @@ input:focus ~ :valid{
     font-size: 1em;
     padding:0 35px 0 5px;
     color: #fff
+}
+
+.inputbox ion-icon{
+    position: absolute;
+    right: 8px;
+    color: #fff;
+    font-size: 1.2em;
+    top: 20px;
+}
+
+.forget{
+    margin: -15px 0 15px;
+    font-size: .9em;
+    color:#fff;
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.forget label input{
+    margin-right: 3px;
 }
