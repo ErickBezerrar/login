@@ -87,3 +87,13 @@ input:focus ~ :valid{
 .forget label input{
     margin-right: 3px;
 }
+
+.forget label a{
+    color: #fff;
+    text-decoration: none;
+
+}
+
+.forget label a:hover{
+    text-decoration: underline;
+}
