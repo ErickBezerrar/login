@@ -12,7 +12,7 @@ Projeto pessoal desenvolvido com HTML & CSS
 </p>
 
 <p align="center">
-  <img alt="License" src="https://github.com/ErickBezerrar/UNES-university/blob/main/images/Screenshot_20221128_045828.png">
+  <img alt="License" src="https://github.com/ErickBezerrar/login/blob/main/images/Imagem%20do%20WhatsApp%20de%202023-03-28%20%C3%A0(s)%2008.36.13.jpg">
 </p>
 
 <br>
