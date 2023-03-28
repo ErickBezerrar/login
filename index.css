@@ -97,3 +97,15 @@ input:focus ~ :valid{
 .forget label a:hover{
     text-decoration: underline;
 }
+
+button{
+    width: 100%;
+    height: 40px;
+    border-radius: 40px;
+    background: #fff;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-size: 1em;
+    font-weight: 600;
+}
