@@ -12,7 +12,7 @@ section{
     align-items: center;
     min-height: 100vh;
     width: 100%;
-    background: url(images/grass_slope_trees_883660_1920x1080.jpg) no-repeat;
+    background: url(images/armarios.jpg) no-repeat;
     background-position: center;
     background-size: cover;
 
@@ -160,6 +160,9 @@ button{
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
+    padding-top: 1rem;
+    width: 20%;
+    margin: 0px
 }
 
 .pzinho{
