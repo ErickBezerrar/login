@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O site foi desenvolvido para treinamento pessoal e exercitação de HTML e CSS.
+O site consiste em uma tela de login para um determinado site que possui um sistema onde apenas funcionários podem entrar
 
 ## 🔖 Layout
 
