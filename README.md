@@ -31,7 +31,7 @@ O site consiste em uma tela de login para um determinado site que possui um sist
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através https://erickbezerrar.github.io/login/
+Você pode visualizar o layout do projeto através 
 
 ## :memo: Licença
 
